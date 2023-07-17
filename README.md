@@ -4,7 +4,7 @@
      - eventually I want to learn simple scripting & command-line programs, and move more towards open-source
      - I'd love to learn a visual programming language too, something like max/msp, vvvv, or touchdesigner and work on large, multimedia designs.
 - 💞️ I’m looking to collaborate on: not sure yet!
-- 📫 How to reach me: <a rel="me" href="https://mastodon.coffee/@headclouded">@headclouded@mastodon.coffee</a> is probably the quickest/easiest
+- 📫 How to reach me: <a rel="me" href="https://mastodon.coffee/@headclouded">my fedi acct</a> is probably the quickest/easiest
 
 <!---
 dustonbw/dustonbw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
