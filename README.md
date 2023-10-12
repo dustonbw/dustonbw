@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @dustonbw
-- 👀 I’m interested in: the guts of the computer
-- 🌱 I’m currently learning: C++ to create basic programs
-- 💞️ I’m looking to collaborate on: not sure yet!
-- 📫 How to reach me: <a rel="me" href="https://mastodon.coffee/@headclouded">my fedi acct</a> is probably the quickest/easiest
+Hi, I'm Duston.
+
+I'm a computer & technology enthusiast and aspiring enthusiastic technician.
+Interested in the guts of the computer, the arts & technology, and the art of technology.
+
+Find me at <a rel="me" href="https://mastodon.coffee/@headclouded">@headclouded@mastodon.coffee</a> on the fediverse,
+or on my <a href="https://dustonbw.com">homepage</a>.
 
 <!---
 dustonbw/dustonbw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
